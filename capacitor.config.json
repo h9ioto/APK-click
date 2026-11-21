@@ -1,0 +1,9 @@
+{
+  "appId": "com.iskra.clicker",
+  "appName": "Искра",
+  "webDir": "www",
+  "backgroundColor": "#05060a",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}
